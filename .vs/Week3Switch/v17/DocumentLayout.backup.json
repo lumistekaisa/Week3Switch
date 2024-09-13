@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaisa\\source\\repos\\Week3Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3599CF61-2D6A-4D18-A55E-5BD12DAF8973}|Week3RemainderOperator\\Week3RemainderOperator.csproj|c:\\users\\kaisa\\source\\repos\\week3switch\\week3remainderoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3599CF61-2D6A-4D18-A55E-5BD12DAF8973}|Week3RemainderOperator\\Week3RemainderOperator.csproj|solutionrelative:week3remainderoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F65044-4908-45AB-9FC0-1A8B271D40A9}|Week3Switch\\Week3Switch.csproj|c:\\users\\kaisa\\source\\repos\\week3switch\\week3switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F65044-4908-45AB-9FC0-1A8B271D40A9}|Week3Switch\\Week3Switch.csproj|solutionrelative:week3switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaisa\\source\\repos\\Week3Switch\\Week3RemainderOperator\\Program.cs",
+              "RelativeDocumentMoniker": "Week3RemainderOperator\\Program.cs",
+              "ToolTip": "C:\\Users\\kaisa\\source\\repos\\Week3Switch\\Week3RemainderOperator\\Program.cs",
+              "RelativeToolTip": "Week3RemainderOperator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:42:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaisa\\source\\repos\\Week3Switch\\Week3Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Week3Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\kaisa\\source\\repos\\Week3Switch\\Week3Switch\\Program.cs",
+              "RelativeToolTip": "Week3Switch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:10:41.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
